@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Job Tracker](https://job-tracker-lime-three.vercel.app/)
+- 🔭 I’m currently working on [Job Tracker](https://job-tracker-g9hy6kuh1-rajesh-thapas-projects-5c490161.vercel.app/)
 
 - 🌱 I’m currently learning **JS libraries.**
 
