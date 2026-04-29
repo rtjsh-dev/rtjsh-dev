@@ -32,3 +32,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtjsh-dev&show_icons=true&locale=en" alt="rtjsh-dev" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtjsh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rtjsh-dev" /> </p>
+
+<h3 align="left">⚡ Random Facts:</h3>
+
+<ul>
+  <li>I enjoy turning ideas into real-world web apps</li>
+  <li>A final year computer engineering student</li>
+  <li>Currently exploring full-stack development and AI integration</li>
+  <li>Technical Coordinator at <a href="https://www.linkedin.com/company/79643141/admin/dashboard/" target="_blank">ACES</a> and <a href="https://www.linkedin.com/company/taranga-ioe-purwanchal-campus/posts/?feedView=all" target="_blank">Taranga</a>| IOE Purwanchal Campus</li>
+  <li>Most productive during late-night coding sessions</li>
+  <li>Goal: Become a well-rounded full-stack developer</li>
+  <li>Football fan (both watching & playing)</li>
+</ul>
